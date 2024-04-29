@@ -1,11 +1,11 @@
 # downScaleML-MasterThesis
 Code and Notebook submission for my Master Thesis at the Insitute for Geoinformatics(ifgi) at the University of Münster
 
-Disclosure: This repository is sliced from the GitHub repository - 'https://github.com/suriyahgit/downScaleML' which I am working as a part of the interTwin project in Eurac Research. For ease of understanding and reproducibility, the scripts and programs are renamed. The data I am used for downscaling will soon be published as a STAC as a part of the commitment of the interTwin project, as an ongoing work. However, this repository has all that was used to build my master thesis - "Enhancing Seasonal Climate Forecasting Supporting Extreme Event Prediction for the Alpine Region Through Machine Learning Statistical Downscaling".
+Note: This repository is derived from the GitHub project - 'https://github.com/suriyahgit/downScaleML', which is a component of the interTwin project at Eurac Research where I am involved. To enhance clarity and facilitate replication, the scripts and programs have been renamed. The dataset utilized for downscaling will soon be made available as a SpatioTemporal Asset Catalog (STAC) as part of the ongoing efforts of the interTwin project. Nevertheless, this repository contains all the codes and notebooks utilized in the development of my master's thesis titled "Enhancing Seasonal Climate Forecasting to Support Extreme Event Prediction in the Alpine Region Through Statistical Downscaling with Machine Learning."
 
 # downscaleml
 First information first!
-The dist folder contains the **''downscaleml"** package, install it using `pip install downscaleml-1.0.tar.gz`. Make sure you already have GDAL dependencies installed in your conda/venv/any_environments. If suppose you face problems with the GDAL installation in your system as well as in your environment, don't worry, I am here for you.
+The dist folder contains the **''downscaleml"** package, install it using `pip install downscaleml-4.0.tar.gz`. Make sure you already have GDAL dependencies installed in your conda/venv/any_environments. If suppose you face problems with the GDAL installation in your system as well as in your environment, don't worry, I am here for you.
 
 This package requires GDAL==3.4.3. 
 
@@ -31,4 +31,4 @@ You are good to go exploring
 
 ## Additional Information
 
-The data is not provided in this package, the paths for the input-output data is provided in the `downscaleml/core/inputoutput.py`. You can make necessary changes here to reflect elsewhere in the project.
+The data is not provided in this package, the paths for the input-output data is provided in the `downscaleml/core/config.py`. You can make necessary changes here to reflect elsewhere in the project.
