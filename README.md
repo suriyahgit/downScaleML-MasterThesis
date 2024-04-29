@@ -31,4 +31,4 @@ You are good to go exploring
 
 ## Additional Information
 
-The data is not provided in this package, the paths for the input-output data is provided in the `downscaleml/core/config.py`. You can make necessary changes here to reflect elsewhere in the project.
+The data is not provided in this package, the paths for the input-output data is provided in the `downscaleml/main/config.py`. You can make necessary changes here to reflect elsewhere in the project.
