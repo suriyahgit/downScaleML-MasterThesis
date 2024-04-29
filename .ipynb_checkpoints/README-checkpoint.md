@@ -1,6 +1,8 @@
 # downScaleML-MasterThesis
 Code and Notebook submission for my Master Thesis at the Insitute for Geoinformatics(ifgi) at the University of Münster
 
+Disclosure: This repository is sliced from the GitHub repository - 'https://github.com/suriyahgit/downScaleML' which I am working as a part of the interTwin project in Eurac Research. For ease of understanding and reproducibility, the scripts and programs are renamed. The data I am used for downscaling will soon be published as a STAC as a part of the commitment of the interTwin project, as an ongoing work. However, this repository has all that was used to build my master thesis - "Enhancing Seasonal Climate Forecasting Supporting Extreme Event Prediction for the Alpine Region Through Machine Learning Statistical Downscaling".
+
 # downscaleml
 First information first!
 The dist folder contains the **''downscaleml"** package, install it using `pip install downscaleml-1.0.tar.gz`. Make sure you already have GDAL dependencies installed in your conda/venv/any_environments. If suppose you face problems with the GDAL installation in your system as well as in your environment, don't worry, I am here for you.
