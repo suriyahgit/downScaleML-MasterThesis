@@ -1,7 +1,7 @@
 # downScaleML-MasterThesis
 Code and Notebook submission for my Master Thesis at the Insitute for Geoinformatics(ifgi) at the University of Münster
 
-Note: This repository is derived from the GitHub project - 'https://github.com/suriyahgit/downScaleML', which is a component of the interTwin project at Eurac Research where I am involved. To enhance clarity and facilitate replication, the scripts and programs have been renamed. The dataset utilized for downscaling will soon be made available as a SpatioTemporal Asset Catalog (STAC) as part of the ongoing efforts of the interTwin project. Nevertheless, this repository contains all the codes and notebooks utilized in the development of my master's thesis titled "Enhancing Seasonal Climate Forecasting to Support Extreme Event Prediction in the Alpine Region Through Statistical Downscaling with Machine Learning."
+Note: This repository is derived from the GitHub project - 'https://github.com/suriyahgit/downScaleML', which is the development environment of the downScaleML module dedicated to downscale climate data for the interTwin project at Eurac Research. To enhance clarity and facilitate replication, the scripts and programs have been renamed in this repository. The dataset utilized for downscaling will soon be made available as a SpatioTemporal Asset Catalog (STAC) as part of the ongoing efforts of the interTwin project. Nevertheless, this repository contains all the codes and notebooks utilized in the development of my master's thesis titled "Enhancing Seasonal Climate Forecasting to Support Extreme Event Prediction in the Alpine Region Through Statistical Downscaling with Machine Learning."
 
 # downscaleml
 First information first!
