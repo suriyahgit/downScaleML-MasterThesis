@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "downscaleml-MasterThesis"
-version = "1.0.0"
+name = "downscaleml"
+version = "4.0.0"
 description = "Downscaling Climate Data"
 authors = ["Suriyah Dhinakaran, Daniel Frisinghelli"]
 license = "GPL-3.0-only"
